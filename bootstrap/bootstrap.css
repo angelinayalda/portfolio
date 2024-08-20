@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head> 
+... your other imports here ...  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+</head> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="css/nivo-lightbox.css" rel="stylesheet" />
+<link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+<link href="css/animations.css" rel="stylesheet" />
+<link href="css/style.css" rel="stylesheet">
+<link href="color/default.css" rel="stylesheet">
+<link href="css/custom.css" rel="stylesheet">
 @charset "UTF-8";
 /*!
  * Bootstrap v3.3.5 (https://getbootstrap.com)
